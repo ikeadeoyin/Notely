@@ -1,1 +1,1 @@
-web: npm start
+web: npm node app.js
